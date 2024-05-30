@@ -1,0 +1,4 @@
+Name Surname Years Worked Salary
+John Smith 4 21107
+Ayanda Dube 10 532004
+Damien Naidoo 5 172900
